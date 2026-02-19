@@ -9,8 +9,7 @@ CAMBIOS
 CAMBIOS 2
 <<<<<<< HEAD
 CAMBIOS 3
-=======
->>>>>>> e50b510d168f5a5f404866dbb9cba827f2e323ed
+
 
 Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
